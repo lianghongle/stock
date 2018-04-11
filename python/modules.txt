@@ -1,0 +1,11 @@
+django
+celery
+django-celery-beat
+django-celery-results
+redis
+pymysql
+lxml
+pandas
+requests
+bs4
+tushare
