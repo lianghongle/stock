@@ -1,6 +1,7 @@
 # phpstorm project files
 .idea
+
 /python/stock/celerybeat.pid
 /python/venv_mac
-/python/mysite/test/migrations/
 /test.json
+migrations/*
