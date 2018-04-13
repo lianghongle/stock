@@ -1,8 +1,8 @@
 from datetime import datetime
 
 from django.shortcuts import render
-from test.models import Test
-from test.sub_models.SubTest import SubTest
+from app_test.models import Test
+from app_test.sub_models.SubTest import SubTest
 
 # Create your views here.
 
